@@ -17,7 +17,7 @@
 
 * input: test.fasta
 * score: pam250.txt
-* aln global|local
+* aln: global|local
 * gap_open
 * gap_extend
 * output: result.fasta
@@ -32,10 +32,11 @@ Rscript hw2_studentID.R --input test.fasta --score pam250.txt --aln global --gap
 
 ## Evaluation
 
-* 80: Global alignment
-* 85: Matrix
-* 90: Local alignment
-* 95: Two gap-penalty scheme (gap open, gap extend)
+* 80: Your code is runnable
+* 85: Global alignment
+* 90: Matrix
+* 95: Local alignment
+* 100: Two gap-penalty scheme (gap open, gap extend)
 
 ### Penalty
 
