@@ -12,6 +12,7 @@
 * pam100.txt
 * pam250.txt
 * test.fasta
+* result.fasta
 
 ## Parameters
 
