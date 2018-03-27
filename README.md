@@ -4,6 +4,7 @@
 
 * Write R script to perform pairwise alignment.
 * Creating your own R script, hw2_yourStudentID.R , ie. hw2_105753026.R, to perform pairwise alignment.
+* In this program, library Biostrings is only used to parse fasta file. Even pairwise alighment function is supported by Biostrings, please complete the dynamic programming part by yourself.
 
 ## File
 
